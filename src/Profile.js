@@ -33,7 +33,7 @@ const Profile = () => {
         <Header as="h1">
           <Icon name="drivers license" />
           {' '}
-          My User Profile (ID Token Claims)
+          My User Profile for App2 (ID Token Claims)
           {' '}
         </Header>
         <a href="/" >
