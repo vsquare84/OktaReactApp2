@@ -24,7 +24,7 @@ export default withOktaAuth(class Home extends Component {
       body = (
         <div className="Buttons">
           <button onClick={this.logout}>SignOut</button>
-          {/* Replace me with your root component. */}
+          {<link href="/" ></link>}
         </div>
       );
     } else {
