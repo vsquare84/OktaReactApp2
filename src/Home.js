@@ -40,7 +40,7 @@ export default withOktaAuth(class Home extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo"/>
           <p>
-            My First React App.
+            My Second React App.
           </p>
           <a href="/profile">
             User's Profile
