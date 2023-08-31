@@ -22,7 +22,7 @@ const Profile = () => {
   if (!userInfo) {
     return (
       <div>
-        <p>Fetching user profile...</p>
+        <p>Fetching users profile...</p>
       </div>
     );
   }
